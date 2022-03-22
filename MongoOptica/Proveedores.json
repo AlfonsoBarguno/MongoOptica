@@ -1,0 +1,67 @@
+[{
+  "_id": {
+    "$oid": "623859a3ba6a2de6131e9e2f"
+  },
+  "nombre": "Monturas Gálvez",
+  "direccion": {
+    "calle": "Rocafort",
+    "numero": 15,
+    "piso": 1,
+    "puerta": "B",
+    "ciudad": "Barcelona",
+    "codigo": "08028",
+    "pais": "España"
+  },
+  "telefono": 934562341,
+  "fax": 936784567,
+  "NIF": "78564924P"
+},{
+  "_id": {
+    "$oid": "62385ab8ba6a2de6131e9e31"
+  },
+  "nombre": "Gafas Cosmos",
+  "direccion": {
+    "calle": "Muntaner",
+    "numero": 45,
+    "piso": 3,
+    "puerta": "C",
+    "ciudad": "Barcelona",
+    "codigo": "08034",
+    "pais": "España"
+  },
+  "telefono": 934562312,
+  "fax": 938975634,
+  "NIF": "67452389J"
+},{
+  "_id": {
+    "$oid": "62385be2ba6a2de6131e9e33"
+  },
+  "nombre": "Ojos del sol",
+  "direccion": {
+    "calle": "Aribau",
+    "numero": 67,
+    "piso": 4,
+    "codigo": "08032",
+    "ciudad": "Barcelona",
+    "pais": "España"
+  },
+  "telefono": 936784534,
+  "fax": 932345678,
+  "NIF": "34781289L"
+},{
+  "_id": {
+    "$oid": "62385c90ba6a2de6131e9e35"
+  },
+  "nombre": "Vision Plus",
+  "direccion": {
+    "calle": "Casanovas",
+    "numero": 34,
+    "piso": 5,
+    "codigo": "08056",
+    "ciudad": "Barcelona",
+    "pais": "España"
+  },
+  "telefono": 937864523,
+  "fax": 937895234,
+  "NIF": "56341274V"
+}]

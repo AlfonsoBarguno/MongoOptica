@@ -1,0 +1,53 @@
+[{
+  "_id": {
+    "$oid": "62385d7fba6a2de6131e9e39"
+  },
+  "marca": "Rayban",
+  "graduacionDerecha": 3.4,
+  "graduacionIzquierda": 3.6,
+  "montura": "flotante",
+  "colorMontura": "Verde",
+  "colorDerecho": "oscuro",
+  "colorIzquierdo": "oscuro",
+  "precio": 120,
+  "proveedor": "Monturas Gálvez"
+},{
+  "_id": {
+    "$oid": "62385dceba6a2de6131e9e3a"
+  },
+  "marca": "Harless",
+  "graduacionDerecha": 2.4,
+  "graduacionIzquierda": 1.6,
+  "montura": "metalica",
+  "colorMontura": "Rojo",
+  "colorDerecho": "claro",
+  "colorIzquierdo": "claro",
+  "precio": 150,
+  "proveedor": "Monturas Gálvez"
+},{
+  "_id": {
+    "$oid": "62385df9ba6a2de6131e9e3b"
+  },
+  "marca": "Silohuette",
+  "graduacionDerecha": 6,
+  "graduacionIzquierda": 5.7,
+  "montura": "pasta",
+  "colorMontura": "Azul",
+  "colorDerecho": "claro",
+  "colorIzquierdo": "claro",
+  "precio": 250,
+  "proveedor": "Vision Plus"
+},{
+  "_id": {
+    "$oid": "62385e29ba6a2de6131e9e3c"
+  },
+  "marca": "Silohuette",
+  "graduacionDerecha": 9,
+  "graduacionIzquierda": 8.7,
+  "montura": "metalica",
+  "colorMontura": "Azul",
+  "colorDerecho": "oscuro",
+  "colorIzquierdo": "oscuro",
+  "precio": 170,
+  "proveedor": "Ojos del sol"
+}]

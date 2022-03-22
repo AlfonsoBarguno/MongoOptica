@@ -1,0 +1,72 @@
+[{
+  "_id": {
+    "$oid": "62385f99ba6a2de6131e9e40"
+  },
+  "nombre": "Jonás",
+  "apellidos": "Gómez Jurado",
+  "direccion": {
+    "calle": "Belma",
+    "numero": 34,
+    "piso": 2,
+    "codigo": "08034",
+    "ciudad": "Barcelona",
+    "país": "España"
+  },
+  "correo": "jurado@gamil.com",
+  "fechaRegistro": "2017-09-23",
+  "recomendacion": "Marta Orriols",
+  "vendedor": "Joan"
+},{
+  "_id": {
+    "$oid": "62385fecba6a2de6131e9e41"
+  },
+  "nombre": "Marta",
+  "apellidos": "Orriols Yun",
+  "direccion": {
+    "calle": "Genaro",
+    "numero": 45,
+    "piso": 1,
+    "codigo": "08024",
+    "ciudad": "Barcelona",
+    "país": "España"
+  },
+  "correo": "orriols@gamil.com",
+  "fechaRegistro": "2016-04-23",
+  "recomendacion": "Erik Fontcuberta",
+  "vendedor": "Joan"
+},{
+  "_id": {
+    "$oid": "62386038ba6a2de6131e9e42"
+  },
+  "nombre": "Erik",
+  "apellidos": "Fontcuberta Glas",
+  "direccion": {
+    "calle": "Lumí",
+    "numero": 56,
+    "piso": 7,
+    "codigo": "08044",
+    "ciudad": "Barcelona",
+    "país": "España"
+  },
+  "correo": "glas@gamil.com",
+  "fechaRegistro": "2016-02-21",
+  "recomendacion": "Helena Redel",
+  "vendedor": "Joan"
+},{
+  "_id": {
+    "$oid": "62386076ba6a2de6131e9e43"
+  },
+  "nombre": "Helena",
+  "apellidos": "Redel Vol",
+  "direccion": {
+    "calle": "Canonge",
+    "numero": 51,
+    "piso": 1,
+    "codigo": "08014",
+    "ciudad": "Barcelona",
+    "país": "España"
+  },
+  "correo": "redel@gamil.com",
+  "fechaRegistro": "2016-01-11",
+  "vendedor": "Maria"
+}]
